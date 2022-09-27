@@ -1,1 +1,1 @@
-# PPSC-FPSC-Test-Exam
+# PPSC-FPSC-Computer Science -Test-MCQS
